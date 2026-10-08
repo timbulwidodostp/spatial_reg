@@ -1,5 +1,6 @@
-D 'xtregbem': Between Effects Panel Data Ridge and Weighted Regression Use xtregbem
+D 'spatial_reg': Conley standard errors in OLS (Ordinary Least Squares) and 2SLS (Two-Stage Least Squares) Use spatial_reg With STATA 19
 D
-F xtregbem.ado
-F xtregbem.dlg
-F xtregbem.sthlp
+F create_distance_matrix.ado
+F read_distance_matrix.ado
+F spatial_reg.ado
+F spatial_reg.hlp
