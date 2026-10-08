@@ -1,0 +1,28 @@
+.-
+help for ^spatial_reg^
+.-
+
+Conley standard errors in OLS (Ordinary Least Squares) and 2SLS (Two-Stage Least Squares) Use spatial_reg With STATA 19
+----------------------
+
+Description
+-----------
+
+^spatial_reg^ Conley standard errors in OLS (Ordinary Least Squares) and 2SLS (Two-Stage Least Squares) Use spatial_reg With STATA 19.
+     
+^Note:^ Requires spatial_reg.ado by Olah Data Semarang
+
+Examples
+--------
+
+ . ^qui reg spatial_reg spatial_reg_1^
+ . ^spatial_reg spatial_reg spatial_reg_1 spatial_reg_2, indexvar(indexvar) distcutoff(50) small diprog^
+ . ^qui ivregress 2sls spatial_reg (spatial_reg_1 = spatial_reg_3)^
+ . ^spatial_reg spatial_reg spatial_reg_2 (spatial_reg_1 = spatial_reg_3), indexvar(indexvar) distcutoff(50) small diprog^
+
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      https://www.youtube.com/@amalsedekah
