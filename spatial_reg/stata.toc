@@ -2,4 +2,4 @@
 1
 2
 3
-p xtregbem Between Effects Panel Data Ridge and Weighted Regression Use xtregbem
+p spatial_reg Conley standard errors in OLS (Ordinary Least Squares) and 2SLS (Two-Stage Least Squares) Use spatial_reg With STATA 19
