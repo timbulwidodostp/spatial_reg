@@ -1,6 +1,24 @@
 D 'spatial_reg': Conley standard errors in OLS (Ordinary Least Squares) and 2SLS (Two-Stage Least Squares) Use spatial_reg With STATA 19
 D
 F create_distance_matrix.ado
+F matcorr.ado
+F matcorr.hlp
+F matewmf.ado
+F matewmf.hlp
+F matselrc.ado
+F matselrc.hlp
+F matvec.ado
+F matvec.hlp
+F matvech.ado
+F matvech.hlp
+F matvsort.ado
+F matvsort.hlp
+F matvtom.ado
+F matvtom.hlp
 F read_distance_matrix.ado
 F spatial_reg.ado
 F spatial_reg.hlp
+F svmat2.ado
+F svmat2.hlp
+F svmatsv.ado
+F svmatsv.hlp
