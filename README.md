@@ -1,6 +1,8 @@
 # spatial_reg
 Conley standard errors in OLS (Ordinary Least Squares) and 2SLS (Two-Stage Least Squares) Use spatial_reg With STATA 19
 
+https://www.youtube.com/watch?v=sUT-Cx74tYQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
